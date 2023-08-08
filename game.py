@@ -1,2 +1,2 @@
-print("Game")
+print("Sonic Game")
 
